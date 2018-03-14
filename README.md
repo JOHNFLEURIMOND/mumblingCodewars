@@ -1,4 +1,4 @@
-![Codewars](Codewars/mumbling.png)
+![Codewars](img/mumbling.png)
 
 # My Awesome Project
 Question:
